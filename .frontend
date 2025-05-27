@@ -1,0 +1,9 @@
+parlayiq-frontend/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+├── README.md
+├── public/
+│   └── mock-data/
+│       └── odds.json 
